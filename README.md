@@ -1,6 +1,8 @@
 # HBase REST Dialer 0.1.0
 > HBase REST Client GO package
 
+tested in HBase 1.3.1
+
 ```
 import (
   "../hbase-rest-dialer"
